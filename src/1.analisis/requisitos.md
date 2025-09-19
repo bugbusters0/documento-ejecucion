@@ -11,7 +11,7 @@ A continuación se presentarán los requisitos para el funcionamiento de Arka, e
 | **Requisito:**              | RU-01                                                                         |
 | **Tipo de Requisito:**      | Usuario                                                                       |
 | **Caso de Uso:**            | CU-017                                                                        |
-| --------------------------- | ----------------------------------------------------------------------------- |
+| ----------------------------------------------------------------------------------------------------------------------- |
 | **Descripción:**            | Realizar registro de usuarios (familiares) por parte del administrador.       |
 | **Justificación:**          | Permite al administrador incorporar nuevos miembros a la plataforma familiar. |
 | **Originador:**             | Administrador                                                                 |
@@ -27,7 +27,7 @@ A continuación se presentarán los requisitos para el funcionamiento de Arka, e
 | **Requisito:**              | RU-02                                                              |
 | **Tipo de Requisito:**      | Usuario                                                            |
 | **Caso de Uso:**            | CU-001                                                             |
-| --------------------------- | ------------------------------------------------------------------ |
+| ----------------------------------------------------------------------------------------------------------------------- |
 | **Descripción:**            | Realizar inicio de sesión (login).                                 |
 | **Justificación:**          | Es necesario para ingresar al sistema de manera segura.            |
 | **Originador:**             | Usuario final (familiar).                                          |
@@ -43,7 +43,7 @@ A continuación se presentarán los requisitos para el funcionamiento de Arka, e
 | **Requisito:**              | RU-03                                                            |
 | **Tipo de Requisito:**      | Usuario                                                          |
 | **Caso de Uso:**            | CU-002                                                           |
-| --------------------------- | ---------------------------------------------------------------- |
+| ----------------------------------------------------------------------------------------------------------------------- |
 | **Descripción:**            | Cerrar sesión.                                                   |
 | **Justificación:**          | Permite al usuario salir del sistema y proteger su información.  |
 | **Originador:**             | Usuario final (familiar).                                        |
@@ -59,7 +59,7 @@ A continuación se presentarán los requisitos para el funcionamiento de Arka, e
 | **Requisito:**              | RU-04                                                         |
 | **Tipo de Requisito:**      | Usuario                                                       |
 | **Caso de Uso:**            | CU-004                                                        |
-| --------------------------- | ------------------------------------------------------------- |
+| ----------------------------------------------------------------------------------------------------------------------- |
 | **Descripción:**            | Visualizar balance personal con ingresos y egresos.           |
 | **Justificación:**          | Permite al usuario analizar su situación financiera personal. |
 | **Originador:**             | Usuario final (familiar).                                     |
@@ -74,7 +74,7 @@ A continuación se presentarán los requisitos para el funcionamiento de Arka, e
 | **Requisito:**              | RU-05                                                              |
 | **Tipo de Requisito:**      | Usuario                                                            |
 | **Caso de Uso:**            | CU-005                                                             |
-| --------------------------- | ------------------------------------------------------------------ |
+| ----------------------------------------------------------------------------------------------------------------------- |
 | **Descripción:**            | Visualizar gráficos de balance personal.                           |
 | **Justificación:**          | Ofrece una visualización intuitiva del estado financiero.          |
 | **Originador:**             | Usuario final (familiar).                                          |

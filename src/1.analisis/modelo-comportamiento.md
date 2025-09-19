@@ -1,5 +1,7 @@
 ### Modelo de requisitos
 
+Aqui se desarrollarán las especificaciones necesarias para el correcto desarrollo y funcionamiento del sistema. Este modelo se divide en 3 componentes principales: el modelo de comportamiento, el modelo de presentación y modelo de información
+
 #### Comportamiento
 
 El modelo de comportamiento describe la lógica de interacción entre los componentes del sistema y los usuarios a través de diagramas de casos de uso.
